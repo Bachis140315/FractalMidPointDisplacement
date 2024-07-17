@@ -224,13 +224,29 @@ void createOFFMidpoint(int length, std::vector<std::vector<double>> & z, std::st
     }
 
     //Initial values
-    outfile << "OFF" << std::endl;
+    outfile << "COFF" << std::endl;
     outfile << length * length << " " << (length - 1)*(length - 1) << " " << 0 << std::endl;
 
+
+    //Temporal way to get the maximum and min value of z
+    double max = 0;
+    double min = 100000000;
+    for (int i = 0; i < length; i++){
+        for (int j = 0; j < length; j++){
+            if(max < z[i][j]){
+                max = z[i][j];
+            } 
+            if(min > z[i][j]){
+                min = z[i][j];
+            } 
+        } 
+    }
+    
     //Vertex
     for (int i = 0; i < length; i++){
         for (int j = 0; j < length; j++){
-            outfile << " " << i << "  " << j << "  " << z[i][j] << std::endl;
+            double colHeight =(z[i][j] - min)/(max - min);
+            outfile << " " << i << "  " << j << "  " << z[i][j] << " " << 50 << " " << floor(colHeight*255)  << " "<<  255 << std::endl;
         }   
     }
 
