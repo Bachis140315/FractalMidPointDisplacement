@@ -1,0 +1,11 @@
+C:/Users/jptac/OneDrive/Escritorio/universidad/Geometria/proyecto/FractalMidPointDisplacement/build/CMakeFiles/algoritmo.dir
+C:/Users/jptac/OneDrive/Escritorio/universidad/Geometria/proyecto/FractalMidPointDisplacement/build/CMakeFiles/edit_cache.dir
+C:/Users/jptac/OneDrive/Escritorio/universidad/Geometria/proyecto/FractalMidPointDisplacement/build/CMakeFiles/rebuild_cache.dir
+C:/Users/jptac/OneDrive/Escritorio/universidad/Geometria/proyecto/FractalMidPointDisplacement/build/src/CMakeFiles/Aux_funcs.dir
+C:/Users/jptac/OneDrive/Escritorio/universidad/Geometria/proyecto/FractalMidPointDisplacement/build/src/CMakeFiles/midPointDisplacement2D.dir
+C:/Users/jptac/OneDrive/Escritorio/universidad/Geometria/proyecto/FractalMidPointDisplacement/build/src/CMakeFiles/edit_cache.dir
+C:/Users/jptac/OneDrive/Escritorio/universidad/Geometria/proyecto/FractalMidPointDisplacement/build/src/CMakeFiles/rebuild_cache.dir
+C:/Users/jptac/OneDrive/Escritorio/universidad/Geometria/proyecto/FractalMidPointDisplacement/build/test/CMakeFiles/aux_func_test.dir
+C:/Users/jptac/OneDrive/Escritorio/universidad/Geometria/proyecto/FractalMidPointDisplacement/build/test/CMakeFiles/testing.dir
+C:/Users/jptac/OneDrive/Escritorio/universidad/Geometria/proyecto/FractalMidPointDisplacement/build/test/CMakeFiles/edit_cache.dir
+C:/Users/jptac/OneDrive/Escritorio/universidad/Geometria/proyecto/FractalMidPointDisplacement/build/test/CMakeFiles/rebuild_cache.dir

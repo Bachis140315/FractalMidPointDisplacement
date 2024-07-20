@@ -1,0 +1,131 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2
+					],
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16.3"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"build" : "src",
+					"jsonFile" : "directory-src-Debug-c94b7c2814d5a21df52c.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16.3"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "src",
+					"targetIndexes" : 
+					[
+						0,
+						3
+					]
+				},
+				{
+					"build" : "test",
+					"jsonFile" : "directory-test-Debug-f18be1977b403cfd1a50.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16.3"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "test",
+					"targetIndexes" : 
+					[
+						2,
+						4
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2
+					],
+					"name" : "Tarea2Geometria",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 1,
+					"id" : "Aux_funcs::@145eef247bfb46b6828c",
+					"jsonFile" : "target-Aux_funcs-Debug-fb421dd3dc7a05e8e446.json",
+					"name" : "Aux_funcs",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "algoritmo::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-algoritmo-Debug-180871b18e9c3b9017ac.json",
+					"name" : "algoritmo",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "aux_func_test::@36f028580bb02cc8272a",
+					"jsonFile" : "target-aux_func_test-Debug-1cb9f675bb3357560168.json",
+					"name" : "aux_func_test",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "midPointDisplacement2D::@145eef247bfb46b6828c",
+					"jsonFile" : "target-midPointDisplacement2D-Debug-f55c42b920a12a4abc4d.json",
+					"name" : "midPointDisplacement2D",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "testing::@36f028580bb02cc8272a",
+					"jsonFile" : "target-testing-Debug-37463754535d0a73450c.json",
+					"name" : "testing",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/jptac/OneDrive/Escritorio/universidad/Geometria/proyecto/FractalMidPointDisplacement/build",
+		"source" : "C:/Users/jptac/OneDrive/Escritorio/universidad/Geometria/proyecto/FractalMidPointDisplacement"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

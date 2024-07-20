@@ -1,0 +1,32 @@
+[
+{
+  "directory": "C:/Users/jptac/OneDrive/Escritorio/universidad/Geometria/proyecto/FractalMidPointDisplacement/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/algoritmo.dir/includes_CXX.rsp -g -std=gnu++23 -o CMakeFiles\\algoritmo.dir\\main.cpp.obj -c C:\\Users\\jptac\\OneDrive\\Escritorio\\universidad\\Geometria\\proyecto\\FractalMidPointDisplacement\\main.cpp",
+  "file": "C:/Users/jptac/OneDrive/Escritorio/universidad/Geometria/proyecto/FractalMidPointDisplacement/main.cpp",
+  "output": "CMakeFiles/algoritmo.dir/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/jptac/OneDrive/Escritorio/universidad/Geometria/proyecto/FractalMidPointDisplacement/build/src",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/Aux_funcs.dir/includes_CXX.rsp -g -std=gnu++23 -o CMakeFiles\\Aux_funcs.dir\\Aux_funcs.cpp.obj -c C:\\Users\\jptac\\OneDrive\\Escritorio\\universidad\\Geometria\\proyecto\\FractalMidPointDisplacement\\src\\Aux_funcs.cpp",
+  "file": "C:/Users/jptac/OneDrive/Escritorio/universidad/Geometria/proyecto/FractalMidPointDisplacement/src/Aux_funcs.cpp",
+  "output": "src/CMakeFiles/Aux_funcs.dir/Aux_funcs.cpp.obj"
+},
+{
+  "directory": "C:/Users/jptac/OneDrive/Escritorio/universidad/Geometria/proyecto/FractalMidPointDisplacement/build/src",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/midPointDisplacement2D.dir/includes_CXX.rsp -g -std=gnu++23 -o CMakeFiles\\midPointDisplacement2D.dir\\midPointDisplacement2D.cpp.obj -c C:\\Users\\jptac\\OneDrive\\Escritorio\\universidad\\Geometria\\proyecto\\FractalMidPointDisplacement\\src\\midPointDisplacement2D.cpp",
+  "file": "C:/Users/jptac/OneDrive/Escritorio/universidad/Geometria/proyecto/FractalMidPointDisplacement/src/midPointDisplacement2D.cpp",
+  "output": "src/CMakeFiles/midPointDisplacement2D.dir/midPointDisplacement2D.cpp.obj"
+},
+{
+  "directory": "C:/Users/jptac/OneDrive/Escritorio/universidad/Geometria/proyecto/FractalMidPointDisplacement/build/test",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/aux_func_test.dir/includes_CXX.rsp -g -std=gnu++23 -o CMakeFiles\\aux_func_test.dir\\aux_funcs_test.cpp.obj -c C:\\Users\\jptac\\OneDrive\\Escritorio\\universidad\\Geometria\\proyecto\\FractalMidPointDisplacement\\test\\aux_funcs_test.cpp",
+  "file": "C:/Users/jptac/OneDrive/Escritorio/universidad/Geometria/proyecto/FractalMidPointDisplacement/test/aux_funcs_test.cpp",
+  "output": "test/CMakeFiles/aux_func_test.dir/aux_funcs_test.cpp.obj"
+},
+{
+  "directory": "C:/Users/jptac/OneDrive/Escritorio/universidad/Geometria/proyecto/FractalMidPointDisplacement/build/test",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/testing.dir/includes_CXX.rsp -g -std=gnu++23 -o CMakeFiles\\testing.dir\\testing.cpp.obj -c C:\\Users\\jptac\\OneDrive\\Escritorio\\universidad\\Geometria\\proyecto\\FractalMidPointDisplacement\\test\\testing.cpp",
+  "file": "C:/Users/jptac/OneDrive/Escritorio/universidad/Geometria/proyecto/FractalMidPointDisplacement/test/testing.cpp",
+  "output": "test/CMakeFiles/testing.dir/testing.cpp.obj"
+}
+]
